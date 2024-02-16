@@ -1,0 +1,21 @@
+{
+  "sourceModuleList": [
+    {
+      "packageUUID": "65cf32bd4101c414d4bfc6b5",
+      "packageName": "Untitled Package 1",
+      "moduleUUID": "65cf32ef4101c414d4bfc6f3",
+      "moduleName": "QueryModule1",
+      "version": "0.0.2"
+    },
+    {
+      "packageUUID": "65cf307d4101c414d4bfc63a",
+      "packageName": "dev",
+      "moduleUUID": "65cf341a4101c414d4bfc817",
+      "moduleName": "Query2Module",
+      "version": "0.0.15"
+    }
+  ],
+  "clientSchemaVersion": 1,
+  "serverSchemaVersion": 7,
+  "fileFormatVersion": 5
+}
