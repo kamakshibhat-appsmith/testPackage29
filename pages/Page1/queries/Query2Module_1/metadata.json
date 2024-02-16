@@ -8,7 +8,7 @@
     "name": "_$Query2Module_1$_Query2Module",
     "pageId": "Page1",
     "contextType": "PAGE",
-    "executeOnLoad": false,
+    "executeOnLoad": true,
     "isValid": true,
     "invalids": [],
     "messages": [],
